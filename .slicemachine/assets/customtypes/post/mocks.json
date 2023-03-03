@@ -1,0 +1,28 @@
+{
+  "uid": {
+    "__TYPE__": "UIDContent",
+    "value": "taught"
+  },
+  "title": {
+    "__TYPE__": "StructuredTextContent",
+    "value": [
+      {
+        "type": "paragraph",
+        "content": {
+          "text": "Tempor duis fugiat officia adipisicing reprehenderit eu fugiat ea cillum fugiat aliqua tempor aliqua et magna."
+        }
+      }
+    ]
+  },
+  "content": {
+    "__TYPE__": "StructuredTextContent",
+    "value": [
+      {
+        "type": "paragraph",
+        "content": {
+          "text": "Duis sint reprehenderit ad nisi. Ipsum tempor mollit anim."
+        }
+      }
+    ]
+  }
+}

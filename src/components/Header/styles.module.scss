@@ -16,7 +16,7 @@
     margin-left: 5rem;
     height: 5rem;
 
-    a {
+    a span {
       display: inline-block;
       position: relative;
       padding: 0 0.5rem;
@@ -25,7 +25,7 @@
       color: var(--gray-300);
       transition: color 0.2s;
 
-      & + a{
+      & + a span {
         margin-left: 2rem;
       }
 
@@ -33,7 +33,7 @@
         color: var(--white);
       }
 
-      &.active{
+      &.active {
         color: var(--white);
         font-weight: bold;
       }
@@ -51,7 +51,7 @@
     }
   }
 
-  button{
+  button {
     margin-left: auto;
   }
 }
